@@ -1,6 +1,4 @@
 # Jane Q&A
-- 스프링 부트로 만든 첫 애플리케이션
-- 배포 주소: https://spring-boot-qna.herokuapp.com/questions
 
 ## 구현한 기능
 
